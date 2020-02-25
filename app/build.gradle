@@ -28,5 +28,7 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
-    implementation project(":fingerbottomdialog")
+//    implementation project(":fingerbottomdialog")
+
+    implementation "com.github.CASH-IT-Developer:FingerBottomDialog:1.0.0"
 }
