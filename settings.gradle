@@ -1,0 +1,2 @@
+include ':app', ':fingerbottomdialog'
+rootProject.name='CashitFingerDialog'

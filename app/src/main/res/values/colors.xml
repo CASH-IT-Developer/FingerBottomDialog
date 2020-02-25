@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="fingerprint_scanning">#ffffff</color>
+    <color name="fingerprint_success">#ffffff</color>
+    <color name="fingerprint_error">#ffffff</color>
+
+    <color name="circle_scanning">#FACA00</color>
+    <color name="circle_success">#38CA16</color>
+    <color name="circle_error">#F4511E</color>
+
+    <color name="status_scanning">#262626</color>
+    <color name="status_success">#262626</color>
+    <color name="status_error">#F4511E</color>
+</resources>

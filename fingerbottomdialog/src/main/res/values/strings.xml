@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CashitFingerDialog</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="fingerprint_state_scanning">Touch sensor</string>
+    <string name="fingerprint_state_success">Fingerprint recognized</string>
+    <string name="fingerprint_state_failure">Fingerprint not recognized.\nTry again.</string>
+    <string name="fingerprint_cancel">Cancel</string>
+</resources>
