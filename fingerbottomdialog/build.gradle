@@ -33,4 +33,8 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
     implementation 'com.google.android.material:material:1.0.0'
 
+    apply plugin: 'com.github.dcendents.android-maven'
+
+    group='com.github.CASH-IT-Developer'
+
 }
