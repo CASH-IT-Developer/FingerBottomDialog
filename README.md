@@ -1,6 +1,7 @@
 # Finger Bottom Dialog
 Library for finger bottomDialog
-![alt text](https://raw.githubusercontent.com/CASH-IT-Developer/FingerBottomDialog/master/finger.jpeg)
+![alt text](https://raw.githubusercontent.com/CASH-IT-Developer/FingerBottomDialog/master/finger1.jpeg)
+![alt text](https://raw.githubusercontent.com/CASH-IT-Developer/FingerBottomDialog/master/finger2.jpeg)
 
 ### How To Use
      implementation "com.github.CASH-IT-Developer:FingerBottomDialog:1.0.0"
