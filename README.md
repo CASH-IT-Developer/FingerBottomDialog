@@ -1,5 +1,6 @@
 # Finger Bottom Dialog
-Library for login, set pin , forgot password and layout with keyboard number
+Library for finger bottomDialog
+![alt text](https://raw.githubusercontent.com/CASH-IT-Developer/FingerBottomDialog/master/finger.jpeg)
 
 ### How To Use
      implementation "com.github.CASH-IT-Developer:FingerBottomDialog:1.0.0"
