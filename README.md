@@ -9,6 +9,20 @@ Waiting a finger           |  Success Login
 
 ### How To Use
      implementation "com.github.CASH-IT-Developer:FingerBottomDialog:1.0.0"
+     ...
+     ...
+     
+     
+### `and` 
+     
+     allprojects {
+         repositories {
+             google()
+             maven { url "https://maven.google.com" }
+             ...
+             ...
+         }
+     }
 
 ### Implementation in Programatically
 
