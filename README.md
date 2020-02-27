@@ -16,13 +16,11 @@ Waiting a finger           |  Success Login
 ### `and` 
      
      allprojects {
-         repositories {
-             google()
-             maven { url "https://maven.google.com" }
-             ...
-             ...
-         }
-     }
+     		repositories {
+     			...
+     			maven { url 'https://jitpack.io' }
+     		}
+     	}
 
 ### Implementation in Programatically
 
