@@ -1,4 +1,6 @@
 # Finger Bottom Dialog
+[![](https://jitpack.io/v/CASH-IT-Developer/FingerBottomDialog.svg)](https://jitpack.io/#CASH-IT-Developer/FingerBottomDialog)
+
 Library for finger bottomDialog
 
 Waiting a finger           |  Success Login
@@ -9,7 +11,7 @@ Waiting a finger           |  Success Login
 
 ### How To Use
      dependencies {
-     	        implementation 'com.github.CASH-IT-Developer:loginKeyboard:Tag'
+     	        implementation 'com.github.CASH-IT-Developer:FingerBottomDialog:Tag'
      	}
      
      
