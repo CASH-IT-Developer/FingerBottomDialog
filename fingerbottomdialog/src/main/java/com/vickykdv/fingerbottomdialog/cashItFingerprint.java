@@ -22,9 +22,6 @@ import com.vickykdv.fingerbottomdialog.Utils.cashItCipherHelper;
 import com.vickykdv.fingerbottomdialog.Utils.cashItFingerprintTkn;
 import com.vickykdv.fingerbottomdialog.interFace.cashItGlobalInterface;
 
-/**
- * Created by Omar on 08/01/2018.
- */
 
 public class cashItFingerprint extends RelativeLayout {
     private final static String TAG = "FingerprintView";

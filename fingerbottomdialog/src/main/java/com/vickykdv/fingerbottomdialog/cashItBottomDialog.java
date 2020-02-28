@@ -18,9 +18,6 @@ import androidx.annotation.RequiresApi;
 import com.google.android.material.bottomsheet.BottomSheetDialog;
 
 
-/**
- * Created by Omar on 07/12/2017.
- */
 
 @SuppressWarnings("unchecked")
 public class cashItBottomDialog<T extends cashItBottomDialog> {

@@ -13,11 +13,6 @@ import androidx.core.content.res.ResourcesCompat;
 import com.vickykdv.fingerbottomdialog.Utils.cashItFingerprintTkn;
 import com.vickykdv.fingerbottomdialog.interFace.cashItGlobalInterface;
 
-
-/**
- * Created by Omar on 02/07/2017.
- */
-
 public class cashItFingerBottomDlg extends cashItBottomDialog<cashItFingerBottomDlg> {
     private cashItFingerprint fingerprint;
     private TextView dialogTitle, dialogMessage, dialogStatus;
